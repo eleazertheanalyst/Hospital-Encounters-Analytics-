@@ -1,6 +1,6 @@
 # Hospital Encounters Analytics Dashboard Using SQL & Power BI
 
-### Dashboard Link : https://app.powerbi.com/groups/dc3f4dcf-3a16-4f02-8302-60857ec16756/reports/52db544d-874d-4787-b64a-04b0f6e54739/fd62d0ac6296e8369c94?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYmExN2JlOWItZDZlZS00YWVjLThkZTItNjM0N2RmODc5NmIxIiwidCI6ImViOGQyOTdiLTQyNWYtNDcyNy05N2QzLTkzNWE3NjlkNDhmOCJ9
 
 ## Project Overview
 
@@ -97,10 +97,10 @@ The primary objective of this analysis was to:
 # Report Snapshot (Power BI DESKTOP)
 
 #### Hospital Encounters Overview
-<img width="1151" height="796" alt="Image" src="https://github.com/user-attachments/assets/ee048753-9fa4-4a8b-81ca-6c060588a625" />
+<img width="1158" height="803" alt="hospital encounters" src="https://github.com/user-attachments/assets/fca77ccb-8590-426f-a89e-768fe0e8ff7b" />
 
 #### Cost & Coverage Analysis
-<img width="1152" height="807" alt="Image" src="https://github.com/user-attachments/assets/e36c3085-aa49-4331-b4ce-dc6e70298d56" />
+<img width="1157" height="815" alt="cost and coverage" src="https://github.com/user-attachments/assets/b7ba014c-35c3-4535-9439-15034f9b8b1a" />
 
 # Key Insights & Analytical Findings
 ### Overall Workforce & Hospital Metrics
